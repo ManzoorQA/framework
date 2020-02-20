@@ -5,7 +5,7 @@ public class MyPrinter {
 		// TODO 122
 		
 		System.out.println("Hi");
-		System.out.println("He");
+		System.out.println("Hee");
 			}
 
 }
