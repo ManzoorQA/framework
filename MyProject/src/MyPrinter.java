@@ -2,7 +2,8 @@
 public class MyPrinter {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// TODO 122
+		
 		System.out.println("Hi");
 		
 
